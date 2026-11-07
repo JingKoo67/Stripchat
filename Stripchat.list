@@ -1,4 +1,4 @@
 # > Stripchat
-DOMAIN-SUFFIX,stripchat.com
-DOMAIN-SUFFIX,stripchatusercontent.com
-DOMAIN-SUFFIX,stripchat.network
+DOMAIN-SUFFIX,stripchat.com, direct
+DOMAIN-SUFFIX,stripchatusercontent.com, direct
+DOMAIN-SUFFIX,stripchat.network, direct
