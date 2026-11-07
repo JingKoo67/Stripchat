@@ -1,4 +1,3 @@
-# > Stripchat
-DOMAIN-SUFFIX,stripchat.com, direct
-DOMAIN-SUFFIX,stripchatusercontent.com, direct
-DOMAIN-SUFFIX,stripchat.network, direct
+# Stripchat
+host-suffix,stripchat.com,DIRECT
+host-suffix,stripchatusercontent.com,DIRECT
